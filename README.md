@@ -132,16 +132,15 @@ BigQuery Bronze → Silver lakehouse with partitioning, clustering, materialized
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-sri&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub streak](https://streak-stats.demolab.com?user=sanskar-sri&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-sri&layout=compact&hide_border=true&theme=default&langs_count=6)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-sri&layout=compact&hide_border=true&theme=default&langs_count=6&cache_seconds=1800)
 
 </div>
-
 ---
 
 ## Recognition
