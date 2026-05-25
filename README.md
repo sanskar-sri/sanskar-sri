@@ -45,7 +45,7 @@ End-to-end platform for mobile LiDAR building identification — from raw `.ply 
 |---|---|
 | LiDAR points processed | 119.78M+ |
 | Registered datasets | 5 |
-| Segmentation accuracy | 92.82% (PTv3) |
+| Segmentation accuracy | 92.82% |
 | Models benchmarked | PointNet++ · PointNet++ MSG · RandLA-Net · PTv3 |
 | Dashboard pages | 15 |
 | Airflow DAGs | 4 |
