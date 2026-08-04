@@ -1,3 +1,4 @@
+<img width="1710" height="1107" alt="Screenshot 2026-08-04 at 4 00 12 PM" src="https://github.com/user-attachments/assets/741c3fd8-a75f-4319-a04b-cee29bdffdd1" />
 <div align="center">
 
 # Sanskar Srivastava
@@ -68,7 +69,7 @@ End-to-end platform for mobile LiDAR building identification — from raw `.ply 
 
 ---
 
-<img width="1710" height="1107" alt="Screenshot 2026-08-04 at 3 57 19 PM" src="https://github.com/user-attachments/assets/4e481050-4c2d-4827-b6bb-64bcc4ad79b9" />
+<img width="1710" height="1107" alt="Screenshot 2026-08-04 at 4 00 38 PM" src="https://github.com/user-attachments/assets/31fec7ac-cc1a-4169-8436-e6c80c3c2811" />
 
 
 ## Also building
