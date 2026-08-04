@@ -1,5 +1,3 @@
-<img width="1710" height="1107" alt="LiDAR MLOps Platform" src="https://github.com/user-attachments/assets/741c3fd8-a75f-4319-a04b-cee29bdffdd1" />
-
 <div align="center">
 
 # Sanskar Srivastava
