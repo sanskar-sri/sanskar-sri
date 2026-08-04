@@ -68,6 +68,9 @@ End-to-end platform for mobile LiDAR building identification — from raw `.ply 
 
 ---
 
+<img width="1710" height="1107" alt="Screenshot 2026-08-04 at 3 57 19 PM" src="https://github.com/user-attachments/assets/4e481050-4c2d-4827-b6bb-64bcc4ad79b9" />
+
+
 ## Also building
 
 ### [snowflake-dbt-streaming-warehouse](https://github.com/sanskar-sri/snowflake-dbt-streaming-warehouse) — Data Engineering · Analytics Engineering
